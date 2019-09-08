@@ -28,22 +28,22 @@ export default [
           {
             path: '/house/resource',
             name: 'resource',
-            component: './haoke/House/Resource'
+            component: './huhu/House/Resource'
           },
           {
             path: '/house/addResource',
             name: 'addResource',
-            component: './haoke/House/AddResource'
+            component: './huhu/House/add_resource'
           },
           {
             path: '/house/kanfang',
             name: 'kanfang',
-            component: './haoke/House/KanFang'
+            component: './huhu/House/KanFang'
           },
           {
             path: '/house/zufang',
             name: 'zufang',
-            component: './haoke/House/ZuFang'
+            component: './huhu/House/ZuFang'
           }
         ]
       },
@@ -56,7 +56,7 @@ export default [
           {
             path: '/fangdong/list',
             name: 'list',
-            component: './haoke/FangDong/List'
+            component: './huhu/FangDong/List'
           }
         ]
       },
@@ -69,7 +69,7 @@ export default [
           {
             path: '/users/list',
             name: 'list',
-            component: './haoke/Users/List'
+            component: './huhu/Users/List'
           }
         ]
       },
@@ -82,7 +82,7 @@ export default [
           {
             path: '/heyue/list',
             name: 'list',
-            component: './haoke/HeYue/List'
+            component: './huhu/HeYue/List'
           }
         ]
       },
@@ -95,7 +95,7 @@ export default [
           {
             path: '/news/list',
             name: 'list',
-            component: './haoke/News/List'
+            component: './huhu/News/List'
           }
         ]
       },
@@ -108,7 +108,7 @@ export default [
           {
             path: '/news/list',
             name: 'list',
-            component: './haoke/News/List'
+            component: './huhu/News/List'
           }
         ]
       },
@@ -121,12 +121,12 @@ export default [
           {
             path: '/finance/bill',
             name: 'bill',
-            component: './haoke/Finance/Bill'
+            component: './huhu/Finance/Bill'
           },
           {
             path: '/finance/tixian',
             name: 'tixian',
-            component: './haoke/Finance/TiXian'
+            component: './huhu/Finance/TiXian'
           }
         ]
       },
@@ -139,17 +139,17 @@ export default [
           {
             path: '/system/interface',
             name: 'interface',
-            component: './haoke/System/Interface'
+            component: './huhu/System/Interface'
           },
           {
             path: '/system/dict',
             name: 'dict',
-            component: './haoke/System/Dict'
+            component: './huhu/System/Dict'
           },
           {
             path: '/system/contract',
             name: 'contract',
-            component: './haoke/System/Contract'
+            component: './huhu/System/Contract'
           }
         ]
       },
